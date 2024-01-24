@@ -15,6 +15,11 @@ body {
     text-align: center;
 }
 
+header a {
+    text-decoration: none;
+    color: grey;
+}
+
 .container {
     max-width: 480px;
     background-color: bisque;
